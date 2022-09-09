@@ -9,7 +9,7 @@
 | **Professors:**          | Jose Sierra                                    |
 | ------------------------ | ---------------------------------------------- |
 | **Classroom:**           | Online Sessions on Zoom & recordings on Canvas |
-| **Time:**                | Weekly Wednesdays 4 to 7 pm                     |
+| **Time:**                | Weekly Wednesdays 4 to 6 pm and Fridays 4 to 5 pm   |
 | **Office Hours:**        | See the pinned thread on Piazza for the link   |
 | **Class Forum:**         | On [Piazza]                                    |
 
