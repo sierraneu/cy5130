@@ -19,6 +19,14 @@
 
 Offers a practical overview of enterprise computer security, operating systems security, and related topics. Applies concepts such as authentication, access control, integrity, and audit to the modern operating system. Discusses and demonstrates system, process, memory, and file system-level defenses and the attacks against them. Also discusses topics in systems security assessment and cloud security. 
 
+#### Objectives
+
++ CY5130.1 : Explain Computer Systems security concepts and principles. 
++ CY5130.2 : Apply security countermeasures such as: authentication, access control, integrity and auditing over modern Operating Systems  
++ CY5130.3 : Analyze vulnerabilities and threats to OS and evaluate appropriate solutions to counteract them.  
++ CY5130.4 : Evaluate the security posture of computer systems and their compliance with guidelines and standards. 
+
+
 
 
 ### Intructional Method
