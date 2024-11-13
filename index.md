@@ -1,7 +1,5 @@
 ## CY5130 Computers Systems Security
 
-### Fall 2022
-
 ### General Information
 
 
