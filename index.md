@@ -8,8 +8,8 @@
 
 | **Professors:**          | Jose Sierra                                    |
 | ------------------------ | ---------------------------------------------- |
-| **Classroom:**           | Online Sessions on Zoom & recordings on Canvas |
-| **Time:**                | Weekly Wednesdays 4 to 6 pm and Fridays 4 to 5 pm   |
+| **Classroom:**           | |
+| **Time:**                |    |
 | **Office Hours:**        | See the pinned thread on Piazza for the link   |
 | **Class Forum:**         | On [Piazza]                                    |
 
@@ -28,13 +28,13 @@ Offers a practical overview of enterprise computer security, operating systems s
 
 
 
-
+<!--
 ### Intructional Method
 
 This section is a fully online with recorded video lectures. Although lectures will be recorded, **it is strongly advised that you attend and participate in classes synchronously.**
 
 This course includes lectures and hands-on projects, so homework represents a very important work-load. It is very important that you follow the class daily (sessions, projects, and readings), because if for whatever reason you loose pace there is almost no time to catch up. 
-
+-->
 
 
 ### Prerequisites
@@ -63,7 +63,7 @@ In this class, you will learn about security techniques and tools that can poten
 
 This class will use a traditional, lecture-style format, punctuated with in-class examples. Slides are available in canvas.
 
-I recommend that students  have access to a local Linux-style command line. You can rely on SSH or [PuTTY](http://www.putty.org/) to get a remote command line on the Khoury College machines, but you run the risk of Wifi connection issues leaving you unable to work. macOS users should be able to use the default Mac command line and [Homebrew](https://brew.sh/); Windows users can install Linux in a virtual machine, or, if you have a recent version of Windows 10, you can [install the Windows Subsystem for Linux (WSL) and then download a copy of Ubuntu right from the Windows Store](https://docs.microsoft.com/en-us/windows/wsl/install-win10).
+I recommend that students  have access to a local Linux-style command line. You can rely on SSH  to get a remote command line on the Khoury College machines, but you run the risk of Wifi connection issues leaving you unable to work. macOS users should be able to use the default Mac command line and [Homebrew](https://brew.sh/); Windows users can install Linux in a virtual machine, or, if you have a recent version of Windows 10, you can [install the Windows Subsystem for Linux (WSL) and then download a copy of Ubuntu right from the Windows Store](https://docs.microsoft.com/en-us/windows/wsl/install-win10).
 
 
 
@@ -71,21 +71,21 @@ I recommend that students  have access to a local Linux-style command line. You 
 
 | Dates          | Slides           | Projects | Due date |
 | :------------- | :--------------- | :-------------- | :-------------|
-| Sept. 7-11 | Welcome and Introduction |           |  |
-| Sept. 12-17 |  Buffer Overflow           | Proj1. Buffer Overflow | 09/21 11:59pm |
-| Sept 19-25 | Enterprise Authentication | Proj2. Enterprise Auth | 10/05 11:59pm |
-| Sept. 26-02 | Access Control Models     |  |      |
-| Oct. 03-09 | Access Control Models     |  |      |
-| Oct. 10-16 | SELinux and Root-kits | Proj3. Access Control | 10/22 11:59pm |
-| Oct. 17-23 | Audit and Logging |  |  |
-| Oct. 24-30 | Midterm                   | Proj4. Audit & Logging | 11/05 11:59pm |
-| Oct. 31-06 | Secure Coding |  |  |
-| Nov. 07- 13 |Compliance and Automation  | Proj5. deploy Bastion host and automation (ansible) | 11/19 11:59pm |
-| Nov. 14 -20 | Security Assessment       |          |  |
-| Nov. 21 - 27 | OS Hardening | Proj6. Security Evaluation | 12/03 11:59pm |
-| Nov. 28 - 04 | Cloud Security | Proj7. CTF | 12/10 11:59pm   |
-| Dec. 05 - 09 | Final preparation review | |  |
-| **Dec. 14th** | Final Quiz: 12-14-21 5:00pm | |  |
+|  | Welcome and Introduction |           |  |
+|  |  Buffer Overflow           | Proj1. Buffer Overflow |  |
+|  | Enterprise Authentication | Proj2. Enterprise Auth |  |
+|  | Access Control Models     |  |      |
+| | Access Control Models     |  |      |
+|  | SELinux and Root-kits | Proj3. Access Control | |
+|  | Audit and Logging |  |  |
+|  | Midterm                   | Proj4. Audit & Logging |  |
+|  | Secure Coding |  |  |
+|  |Compliance and Automation  | Proj5. deploy Bastion host and automation (ansible) | |
+|  | Security Assessment       |          |  |
+|  | OS Hardening | Proj6. Security Evaluation | |
+|  | Cloud Security | Proj7. CTF |   |
+|  | Final preparation review | |  |
+|  | Final  | |  |
 | . | | |  |
 
 
@@ -99,10 +99,6 @@ This class does not require students to get textbooks. However, there may be add
 There will be 7 projects throughout the semester. **Assignments are due at 11:59:59pm on the specified date.** I highly recommend that students start assignments early!
 
 
-
-### Exams
-
-There will be an final open-book quiz on December 14th 5:00pm . The exam will be take online and it will last for 1 hour. Although the exam is open-book,  it is a timed exam, so you need to prepare meticulously for it. To do so, We will have preparation assignments and sessions.
 
 
 
@@ -134,11 +130,11 @@ To calculate final letter grades, use the following scale: [0-69] F, [70-72] C-,
 
 ### Late Policy
 
-For projects, we will use flexible slip days. Each student is given three (3) slip days for the semester. You may use the slip days on any project (1, 2, 3, 4, 5, or 6) during the semester in increments of one day. For example, you can hand in one project three days late, or three projects one day late. **The only exception is with the last final project, Project 7, because its submission cannot be extended from December 10th**.
+For projects, we will use flexible slip days. Each student is given three (2) slip days for the semester. You may use the slip days on any project (1, 2, 3, 4, 5, or 6) during the semester in increments of one day. For example, you can hand in one project three days late, or three projects one day late. **The only exception is with the last final project, Project 7, because its submission cannot be extended from December 10th**.
 
 In order to use a slip day you need to communicate it 24h in advance through piazza (#slipdayrequest).
 
-After you have used up your three (3) slip days, any day late is 20% off your grade for that project. 
+After you have used up your two (2) slip days, any day late is 20% off your grade for that project. 
 
 ### Cheating Policy
 
